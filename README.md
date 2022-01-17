@@ -1,6 +1,6 @@
 # computational-physics-class-404-604-Spring-2022
 
-Welcome to the course GitHub repository (repo) for __AST 713__ - __Astrophysics I__, at UNLV.  Here you'll find Jupyter Notebooks (`.ipynb`) that correspond to or suppplement in-class lectures.  If you're not familiar with [GitHub](#GitHub), [Jupyter](#Jupyter) or the [Python](#Python) programming language, please read through the relevant sections below.
+Welcome to the course GitHub repository (repo) for __Computational__Physics__II__, at UNLV.  Here you'll find Jupyter Notebooks (`.ipynb`) that correspond to or suppplement in-class lectures.  If you're not familiar with [GitHub](#GitHub), [Jupyter](#Jupyter) or the [Python](#Python) programming language, please read through the relevant sections below.
 
 
 ## GitHub
